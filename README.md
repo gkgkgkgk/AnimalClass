@@ -1,0 +1,2 @@
+# AnimalClass
+AnimalClass for class
